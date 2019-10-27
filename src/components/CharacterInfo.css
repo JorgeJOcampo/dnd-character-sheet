@@ -1,0 +1,18 @@
+.character-info{
+  background-size: cover;
+  background-color: #383B3E;
+  background-image: url("//cdn.leagueofgraphs.com/img/banners/champion-banners/22.jpg");
+  padding: 8px;
+}
+
+.name {
+  display: flex;
+  justify-content: start;
+}
+
+.description{
+  font-size: 25px;
+  font-weight: 300;
+  display: flex;
+  justify-content: space-between;
+}
